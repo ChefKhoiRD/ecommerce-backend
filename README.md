@@ -42,4 +42,4 @@ THEN I am able to successfully create, update, and delete data in my database
 
 ## Video walkthrough of this project
 -----
-![readmegif1](./assets/team.gif)
+![readmegif1](./assets/ecommerce%20backend.gif)
